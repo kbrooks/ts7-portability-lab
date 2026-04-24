@@ -1,0 +1,13 @@
+{
+  "name": "ts7-portability-lab",
+  "private": true,
+  "packageManager": "pnpm@10.16.1",
+  "scripts": {
+    "build": "pnpm exec tsc -b",
+    "build:tsgo": "pnpm exec tsgo --build"
+  },
+  "devDependencies": {
+    "@typescript/native-preview": "beta",
+    "typescript": "^6.0.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@lab/app",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "dependencies": {
+    "@lab/feature-gating": "workspace:*"
+  }
+}

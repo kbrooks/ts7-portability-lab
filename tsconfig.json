@@ -1,0 +1,7 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/feature-gating" },
+    { "path": "./packages/app" }
+  ]
+}
